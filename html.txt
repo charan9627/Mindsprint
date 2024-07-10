@@ -1,0 +1,15 @@
+<html>
+<html lang="en">
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Cricket Team</title>
+    <!-- You can link stylesheets or other resources here -->
+</head>
+<body>
+    <!-- Your web page content goes here -->
+    <h1>Indian Cricket Team</h1>
+    <p>Explore the world of cricket with live scores, player profiles, and in-depth statistics.</p>
+    <!-- Add more content as needed -->
+</body>
+</html>
